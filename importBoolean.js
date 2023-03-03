@@ -1,2 +1,2 @@
-const value = require("./exportBoolean");
-console.log(value);
+const canDance = require("./exportBoolean.js");
+console.log(canDance);

@@ -1,1 +1,2 @@
-module.exports = "true";
+const canDance = true;
+module.exports = canDance;
